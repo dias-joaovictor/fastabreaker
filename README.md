@@ -13,7 +13,6 @@ The file will be deployed at 'target/jfx/app'
 ## Execution:
 ### _Prerequisites for execution_:
 1 - Java Runtime environment 8 (JRE8)
-2 - Maven 3
 ### Comand line:
 ``` /bin/bash
     java -jar fastabreaker-jfx.jar
